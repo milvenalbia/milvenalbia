@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milven&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milven&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=milvenalbia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milvenalbia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's Top Languages" />
 </div>
 
 ## 🏗️ Building Digital Experiences
@@ -79,8 +79,8 @@ I specialize in creating:
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+I'm always open to discuss new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
 
 ---
 
-⭐️ From [Milven](https://github.com/milven)
+⭐️ From [Milven](https://github.com/milvenalbia)
