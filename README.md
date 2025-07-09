@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Milven
 
-> *"A Web Developer driven by a love for building things through code."*
+> *"A Web Developer driven by love for building things through code."*
 
 ## 🧰 Toolbox
 
