@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milvenalbia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's GitHub Stats" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=milvenalbia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milvenalbia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Milven's Top Languages" />
 </div>
--->
+
 
 ## 🏗️ Building Digital Experiences
 
